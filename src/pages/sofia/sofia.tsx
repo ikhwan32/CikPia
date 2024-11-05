@@ -24,7 +24,7 @@ const Judy = () => {
         <p className=" text-xl">Anis Sofia</p>
         <div className="flex flex-col text-left">
           <Link to={"/wishes"} className="hover:underline">
-            Our Wishes
+            Click Me
           </Link>
         
         </div>
