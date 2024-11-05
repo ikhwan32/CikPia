@@ -1,6 +1,6 @@
 import "./sofia.css";
 
-import mainImage from "../../assets/main-image.webp";
+import mainImage from "../../assets/main-image.jpg";
 import Marquee from "../../components/Marquee/Marquee";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
