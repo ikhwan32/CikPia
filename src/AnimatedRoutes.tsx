@@ -13,7 +13,7 @@ const AnimatedRoutes = () => {
       <Routes location={location} key={location.pathname}>
         <Route path="/" element={<Home />} />
         <Route path="/judy" element={<Judy />} />
-        <Route path="/sofia" element={<Sofia />} />
+        <Route path="/sofia" element={<sofia />} />
         <Route path="/wishes" element={<Navigate to="/wishes/0" replace />} />
         <Route path="/wishes/:id" element={<Wishes />} />
       </Routes>
