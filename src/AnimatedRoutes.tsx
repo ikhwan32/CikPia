@@ -2,6 +2,7 @@ import { AnimatePresence } from "framer-motion";
 import { useLocation, Routes, Route, Navigate } from "react-router-dom";
 import Home from "./pages/home/Home";
 import Judy from "./pages/judy/Judy";
+import Sofia from "./pages/sofia/Sofia";
 import Wishes from "./pages/wishes/Wishes";
 
 const AnimatedRoutes = () => {
