@@ -48,7 +48,7 @@ const sampleMessagesDataArray: TMessagesData[] = [
     albumArt: firstAlbumArt,
     musicName: "Night City - R E L's Version",
     messageInParas: [
-      "Hey there Judy Walker, it's your birthday! Wishing you the happiest of birthdays filled with all the things you love and cherish the most.",
+      "Dear Anis Sofia, On this special day marking your 21st birthday, I want to express just how much you mean to me and how grateful I am to have you in my life. Your presence has brought endless joy, warmth, and love into my world, making every day brighter simply because you're in it.",
       "May this year be filled with lots of laughter, love, and unforgettable memories. I hope you get to spend your special day surrounded by the people you care about, doing all the things that make you happy.",
       "Whether it's eating cake, opening presents, or just chilling out, I hope you have the best time ever. Here's to another year of being awesome, slaying the game, and living your best life.",
       "You're a true gem, Judy, and I feel lucky to know you. Happy birthday and cheers to a fantastic year ahead!",
