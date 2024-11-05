@@ -61,7 +61,7 @@ const Judy = () => {
         exit={{ opacity: 0 }}
         className="absolute bottom-0 mb-12 text-center md:hidden w-full underline flex flex-col"
       >
-        <Link to={"/wishes"}>Our Wishes</Link>
+        <Link to={"/wishes"}>Click Me</Link>
       </motion.div>
       {/* Mobile */}
       <motion.div
