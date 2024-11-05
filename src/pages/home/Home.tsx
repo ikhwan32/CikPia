@@ -18,12 +18,12 @@ const Home = () => {
         className="absolute top-0 mt-12 text-center"
       >
         <p>"From the orion stars"</p>
-        <p>Judy Walker</p>
+        <p>Anis Sofia</p>
       </motion.div>
       {/* Mobile */}
       <Link
         className="w-48 md:w-72 overflow-hidden rounded-xl md:hidden"
-        to={"/judy"}
+        to={"/sofia"}
       >
         <motion.img
           initial={{ opacity: 0 }}
@@ -39,7 +39,7 @@ const Home = () => {
       {/* Mobile */}
       <Link
         className="w-48 md:w-72 overflow-hidden rounded-xl hidden md:block"
-        to={"/judy"}
+        to={"/sofia"}
       >
         <motion.img
           initial={{ opacity: 0 }}
@@ -64,7 +64,7 @@ const Home = () => {
         className="absolute bottom-0 mb-12 text-center"
       >
         <p>{formatAmPm(new Date())}</p>
-        <p>20.01.2077</p>
+        <p>06.11.2024</p>
       </motion.div>
     </main>
   );
