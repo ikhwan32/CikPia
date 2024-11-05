@@ -1,5 +1,5 @@
 import "./Home.css";
-import mainImage from "../../assets/anis-sofia.JPG";
+import mainImage from "../../assets/anis-sofia.jpg";
 
 import Marquee from "../../components/Marquee/Marquee";
 import { motion } from "framer-motion";
